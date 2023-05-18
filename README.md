@@ -1,1 +1,1 @@
-It's live! Check it out: https://vincenttlin.github.io/
+My personal website is live! Check it out: https://vincenttlin.github.io/
